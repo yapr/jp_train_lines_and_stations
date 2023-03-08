@@ -1,0 +1,3 @@
+[submodule "jp_train_lines_and_stations_data"]
+  path = jp_train_lines_and_stations_data
+  url = git@github.com:yapr/jp_train_lines_and_stations_data.git
